@@ -19,8 +19,12 @@
 * 鏈上的 Hello World 程式
 * 可以向帳戶發送 `hello` 並獲取 `hello` 的發送次數。
 
-## 翻譯
+## 翻譯版本
 - [英文](README.md)
+- [簡體中文](README_ZH_CH.md)
+
+## Solana 開發文檔
+[Solana 開發文件網站] (https://docs.solana.com)
 
 ## 目錄
 - [Hello world on Solana](#hello-world-on-solana)
