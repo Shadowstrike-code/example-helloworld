@@ -21,7 +21,10 @@
 
 ## 翻译版本
 - [英文](README.md)
-- [繁体](README_ZH_TW.md)
+- [繁体中文](README_ZH_TW.md)
+
+## Solana 开发文档
+[Solana 开发文档网站] (https://docs.solana.com)
 
 ## 目录
 - [Solana 的 Hello world 实例](#hello-world-on-solana)
